@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>eachi</tabTrigger>
+  <content><![CDATA[each { |${1:r}| ${2:} }]]></content>
+  <scope>source.ruby</scope>
+  <description>each { |r| ... }</description>
+</snippet>

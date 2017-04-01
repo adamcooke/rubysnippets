@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>val</tabTrigger>
+  <content><![CDATA[validates :${1:attribute}, ${2::presence => true}]]></content>
+  <scope>source.ruby</scope>
+  <description>validates</description>
+</snippet>

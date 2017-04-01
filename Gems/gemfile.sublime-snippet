@@ -1,0 +1,9 @@
+<snippet>
+  <tabTrigger>gemfile</tabTrigger>
+  <content><![CDATA[source 'https://rubygems.org'
+
+gem '${1:name}'
+]]></content>
+  <scope>source.ruby</scope>
+  <description>A stock gemfile</description>
+</snippet>

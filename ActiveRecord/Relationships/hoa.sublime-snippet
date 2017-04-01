@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>hoa</tabTrigger>
+  <content><![CDATA[has_one :${1:record}, :as => :${2:parent}]]></content>
+  <scope>source.ruby</scope>
+  <description>has_one (as)</description>
+</snippet>

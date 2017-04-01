@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>sco</tabTrigger>
+  <content><![CDATA[scope :${1:name}, -> { ${2:query} }]]></content>
+  <scope>source.ruby</scope>
+  <description>scope</description>
+</snippet>

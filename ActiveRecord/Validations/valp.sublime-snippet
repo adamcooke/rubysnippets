@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valp</tabTrigger>
+  <content><![CDATA[validates :${1:attribute}, :presence => true]]></content>
+  <scope>source.ruby</scope>
+  <description>validates (presence)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>loadpath</tabTrigger>
+  <content><![CDATA[\$:.unshift(File.expand_path('${1:../}', __FILE__))]]></content>
+  <scope>source.ruby</scope>
+  <description>Add to load path</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>hma</tabTrigger>
+  <content><![CDATA[has_many :${1:records}, :as => :${2:parent}]]></content>
+  <scope>source.ruby</scope>
+  <description>has_many (as)</description>
+</snippet>

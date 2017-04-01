@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>btp</tabTrigger>
+  <content><![CDATA[belongs_to :${1:record}, :polymorphic => true]]></content>
+  <scope>source.ruby</scope>
+  <description>belongs_to (polymorphic)</description>
+</snippet>

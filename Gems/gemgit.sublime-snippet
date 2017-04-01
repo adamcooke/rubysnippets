@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>gemgh</tabTrigger>
+  <content><![CDATA[gem '${1:name}', :git => 'https://github.com/${2:user}/${3:repo}', :branch => '${4:master}']]></content>
+  <scope>source.ruby</scope>
+  <description>gem 'name' from github</description>
+</snippet>

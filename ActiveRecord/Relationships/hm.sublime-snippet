@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>hm</tabTrigger>
+  <content><![CDATA[has_many :${1:records}${2:, :dependent => :${3:destroy}}]]></content>
+  <scope>source.ruby</scope>
+  <description>has_many</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>bto</tabTrigger>
+  <content><![CDATA[belongs_to :${1:record}, :optional => true]]></content>
+  <scope>source.ruby</scope>
+  <description>belongs_to (optional)</description>
+</snippet>

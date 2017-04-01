@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valf</tabTrigger>
+  <content><![CDATA[validates :${1:attribute}, :format => {:with => /\A${2:[a-z0-9]*}\z/}]]></content>
+  <scope>source.ruby</scope>
+  <description>validates (format)</description>
+</snippet>

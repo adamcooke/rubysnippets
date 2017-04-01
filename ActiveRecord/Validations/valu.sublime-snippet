@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valu</tabTrigger>
+  <content><![CDATA[validates :${1:attribute}, :uniqueness => true]]></content>
+  <scope>source.ruby</scope>
+  <description>validates (uniqueness)</description>
+</snippet>

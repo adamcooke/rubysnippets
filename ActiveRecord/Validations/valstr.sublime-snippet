@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valstr</tabTrigger>
+  <content><![CDATA[validates :${1:attribute}, :presence => true, :length => {:maximum => ${2:255}}]]></content>
+  <scope>source.ruby</scope>
+  <description>validates (string)</description>
+</snippet>

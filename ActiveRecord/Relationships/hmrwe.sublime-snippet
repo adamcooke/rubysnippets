@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>hmrwe</tabTrigger>
+  <content><![CDATA[has_many :${1:records}, :dependent => :restrict_with_exception]]></content>
+  <scope>source.ruby</scope>
+  <description>has_many (dependent restrict)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valperma</tabTrigger>
+  <content><![CDATA[validates :${1:permalink}, :presence => true, :uniqueness => true, :format => {:with => /\A[a-z0-9\-]*\z/}]]></content>
+  <scope>source.ruby</scope>
+  <description>validates (permalink)</description>
+</snippet>

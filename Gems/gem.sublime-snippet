@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>gem</tabTrigger>
+  <content><![CDATA[gem '${1:name}']]></content>
+  <scope>source.ruby</scope>
+  <description>gem 'name'</description>
+</snippet>

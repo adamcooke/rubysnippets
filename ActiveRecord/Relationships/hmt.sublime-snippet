@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>hmt</tabTrigger>
+  <content><![CDATA[has_many :${1:records}, :through => :${2:other}]]></content>
+  <scope>source.ruby</scope>
+  <description>has_many (through)</description>
+</snippet>

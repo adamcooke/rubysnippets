@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>valm</tabTrigger>
+  <content><![CDATA[validate :${1:method_name}]]></content>
+  <scope>source.ruby</scope>
+  <description>validate with method</description>
+</snippet>
